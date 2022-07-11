@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DestroyBox
+  - FallingObject
+  - Paddle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - DestroyBox
+  - FallingObject
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1550585419
+    locked: 0
+  - name: Score
+    uniqueID: 2096134759
+    locked: 0
+  - name: Walls
+    uniqueID: 3310116995
+    locked: 0
+  - name: Paddle
+    uniqueID: 119483251
+    locked: 0
+  - name: FallingObjects
+    uniqueID: 2795548803
+    locked: 0
+  - name: UI
+    uniqueID: 2476455951
+    locked: 0
